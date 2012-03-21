@@ -1,0 +1,4 @@
+This assignment was completed by Louisa Berger and Meaghan Harty.
+We affirm that we have adherred to the honor code in this assignment.
+
+We were unsure what you meant by "take from std.in" instead of the filename in the args. We choose to ask the user for the name of the file, but if you meant that the program should be able to take in "typed input" from the user, not in file form, then we have some commented-out code that addresses that.
